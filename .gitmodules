@@ -1,0 +1,6 @@
+[submodule "np-01-3-2"]
+	path = np-01-3-2
+	url = git@github.com:leoochenn/np-01-3-2.git
+[submodule "ad-04-3-2"]
+	path = ad-04-3-2
+	url = git@github.com:leoochenn/ad-04-3-2.git
