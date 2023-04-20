@@ -4,7 +4,7 @@ this is where i'm going to put my school work in
 #	className - workNumber - grade - semaster
 
 #	class name
-np	=	network programming
+np	=	network programming <br>
 ad 	=	algorithm design
 
 
